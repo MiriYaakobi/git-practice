@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Temporary Python runtime files
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+!important-setup.log
