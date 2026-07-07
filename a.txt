@@ -1,3 +1,3 @@
 A new file
 And now a new row :)
-This is a testtt
+This is a test
