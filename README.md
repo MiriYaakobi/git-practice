@@ -12,4 +12,4 @@ This project serves as a sandbox to experiment with various Git commands and sce
 * **Debugging:** Using `git bisect` and `git reflog`.
 * **Collaboration:** GitHub Flow rules, Pull Requests, and Branch Protection.
 
-Created for educational purposes.
+Created for educational purposes :)
